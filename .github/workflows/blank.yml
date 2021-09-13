@@ -28,9 +28,8 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: |
-          echo "\nTEST" >> README.md
-          head -n -1 README.md >> README.md
-          date >> README.md
+          echo "\nTEST\n" >> README.md
+          head -n -1 date >> README.md
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .

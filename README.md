@@ -16,5 +16,4 @@
 
 [![CI](https://github.com/testACCTEMP/final_hour/actions/workflows/main.yml/badge.svg)](https://github.com/testACCTEMP/final_hour/actions/workflows/main.yml)
 -----
-2017-08-18
-2021-09-13
+

@@ -1,4 +1,4 @@
-![](git__header_1.png)
+![](git_top.png)
 
 - 👋 Hi, I’m @testACCTEMP
 

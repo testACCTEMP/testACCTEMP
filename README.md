@@ -1,9 +1,12 @@
 ![](git_top.png)
 
-- 👋 Hi, I’m @testACCTEMP
+👋 你好，我是 testACCTEMP
 
-- 🌱 just using github actions to push this into my main repo :)
-- ![](crab.gif)
+🌱 这只是我的临时帐户
+
+(just using github actions to push this into my main repo)
+
+![](crab.gif)
 
 ![](git_header_2.png)
 
